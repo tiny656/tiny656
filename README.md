@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![tiny656's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiny656&show_icons=true&theme=default)
+
 <!--
 **tiny656/tiny656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
