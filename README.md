@@ -1,22 +1,16 @@
 ### Hi there 👋
 
-<p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=tiny656&show_icons=true&theme=default">
-  <img align="center" alt="tiny656's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tiny656&show_icons=true&theme=default" />
-</a>
-</p>
+![GitHub User's stars](https://img.shields.io/github/stars/tiny656?style=for-the-badge&logo=github)
+![Static Badge](https://img.shields.io/badge/telegram-realtiny656-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2FdGlueTY1Ng)
+![Static Badge](https://img.shields.io/badge/mail-tiny656%40hotmail.com-blue?style=for-the-badge&logo=maildotru&link=mailto%3Atiny656%40hotmail.com)
 
-<!--
-**tiny656/tiny656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="tiny656's GitHub stats" src="https://raw.githubusercontent.com/tiny656/miles/master/miles.svg" width="50%" />
 
-Here are some ideas to get you started:
+## *Those good things melt the years away.*
+🏃 初级跑者, 保持自律, 坚持训练, powered by [running_page](https://github.com/tiny656/running_page), [miles](https://github.com/naosense/miles) and [180-bpm-music](https://space.bilibili.com/15276235/channel/collectiondetail?sid=250115).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - 👟 鸿星尔克 极风SP
+    - ⌚ Huawei Watch GT3 Porsche Design
+    - 🎧 Shokz OpenRun Pro
+    - 🎽 Decathlon
+    - 🩳 Decathlon
