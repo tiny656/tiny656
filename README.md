@@ -14,3 +14,4 @@
     - 🎧 Shokz OpenRun Pro
     - 🎽 Decathlon
     - 🩳 Decathlon
+    - 📱 HUAWEI Health Kit(华为运动健康) && 悦跑圈(Joy Run)
