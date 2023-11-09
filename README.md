@@ -11,7 +11,7 @@
 
 🏃 初级跑者, 保持自律, 坚持训练, powered by [running_page](https://github.com/yihong0618/running_page), [miles](https://github.com/naosense/miles) and [180-bpm-music](https://space.bilibili.com/15276235/channel/collectiondetail?sid=250115).
 ```
-👟 鸿星尔克 极风SP
+👟 鸿星尔克 极风SP/乔丹 飞影PB3.0
 ⌚ Huawei Watch GT3 Porsche Design
 🎧 Shokz OpenRun Pro
 🎽 Decathlon
