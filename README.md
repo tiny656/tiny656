@@ -6,7 +6,7 @@
 
 <img align="left" alt="tiny656'miles" src="https://raw.githubusercontent.com/tiny656/miles/master/miles.svg" width="50%" height="120%" />
 
-*Those good things melt the years away.* **[running_page](https://tiny656.github.io/running_page/)**
+*Those good things melt the years away.*
 
 ```
 👟 鸿星尔克 极风SP/乔丹 飞影PB3.0
